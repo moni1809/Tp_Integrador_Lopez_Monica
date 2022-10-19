@@ -35,17 +35,6 @@ a:hover {
   padding-left: 30%;
   margin-right: 5%;
 }
-#oradores {
-  max-width: 100%;
-}
-.orador {
-  margin: 5%;
-}
-.orad {
-  border: solid 1px grey;
-  width: 20%;
-  padding: 0;
-}
 h6 {
   color: grey;
 }
@@ -85,16 +74,6 @@ h6 {
   margin-left: 0.2%;
   padding: 0;
 }
-
-footer {
-  background-color: #1c3645;
-  margin: 0;
-  padding: 0;
-  height: 10vh;
-  max-width: 100%;
-  color: rgb(255, 255, 255);
-}
-
 .slide img {
   max-width: 100%;
   z-index: -1;
@@ -122,5 +101,12 @@ a {
 .octubre__text {
   padding: 5vh;
   background-color: rgb(53, 58, 64);
+  color: rgb(255, 255, 255);
+}
+.nav-footer {
+  justify-content: center;
+  background-color: #1e516e;
+}
+.nav-item{
   color: rgb(255, 255, 255);
 }
